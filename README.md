@@ -14,3 +14,6 @@
 
 ## **싱글톤 컨테이너**
   * https://github.com/leechangheelee/Spring-Core-Principle-Basic-Inflearn/blob/main/싱글톤-컨테이너.md
+
+## **컴포넌트 스캔**
+  * https://github.com/leechangheelee/Spring-Core-Principle-Basic-Inflearn/blob/main/컴포넌트-스캔.md
