@@ -17,3 +17,6 @@
 
 ## **컴포넌트 스캔**
   * https://github.com/leechangheelee/Spring-Core-Principle-Basic-Inflearn/blob/main/컴포넌트-스캔.md
+
+## **의존관계 자동 주입**
+  * https://github.com/leechangheelee/Spring-Core-Principle-Basic-Inflearn/blob/main/의존관계-자동-주입.md
