@@ -20,3 +20,5 @@
 
 ## **의존관계 자동 주입**
   * https://github.com/leechangheelee/Spring-Core-Principle-Basic-Inflearn/blob/main/의존관계-자동-주입.md
+
+## **빈 생명주기 콜백**
