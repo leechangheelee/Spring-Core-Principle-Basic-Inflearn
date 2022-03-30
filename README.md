@@ -23,3 +23,6 @@
 
 ## **빈 생명주기 콜백**
   * https://github.com/leechangheelee/Spring-Core-Principle-Basic-Inflearn/blob/main/빈-생명주기-콜백.md
+
+## **빈 스코프**
+  * https://github.com/leechangheelee/Spring-Core-Principle-Basic-Inflearn/blob/main/빈-스코프.md
